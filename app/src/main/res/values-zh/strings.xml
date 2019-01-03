@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">签名计算工具</string>
+    <string name="input_package_name">输入你的包名</string>
+    <string name="generate">计算</string>
+    <string name="click_to_copy">点击复制到粘贴板</string>
+    <string name="CanNotFindPackage">没有找到包名</string>
+    <string name="Copied">已复制到粘贴板</string>
+    <string name="developer">开发者：李玉亮</string>
+</resources>

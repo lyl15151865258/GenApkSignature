@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GenApkSignature</string>
+    <string name="input_package_name">your package name</string>
+    <string name="generate">Generate</string>
+    <string name="click_to_copy">Click to copy text</string>
+    <string name="CanNotFindPackage">Cannot find package by name</string>
+    <string name="Copied">Copied to clipboard</string>
+    <string name="developer">Developer ：Li Yuliang</string>
+</resources>
